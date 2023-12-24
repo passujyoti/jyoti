@@ -5,7 +5,7 @@
 <p>Author - jyoti</p>
 <br>
   
-  <h>MY RESUME</h>
+  <br><h>MY RESUME</h><br>
 <p> my name is jyoti</p>
 <p>i put up ghumar mandi.</p>
 <p>i hail from ludhiana.</p>
