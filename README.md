@@ -9,8 +9,8 @@ Author - jyoti
 
 <h1>JYOTI</h1>
 
-<p>i put up ghumar mandi</p>
-<p>i hail from ludhiana</p>
+<p>i put up ghumar mandi.</p>
+<p>i hail from ludhiana.</p>
 
 <p>my area of intersecting music.</p>
 
