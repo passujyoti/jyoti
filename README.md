@@ -2,7 +2,7 @@
 <html>
 <body>
 <h1>This is my first git repository.</h1>
-<h></h>Author - jyoti</h>
+<p>Author - jyoti</p>
 <br>
 <p> my name is jyoti</p>
 <p>i put up ghumar mandi.</p>
