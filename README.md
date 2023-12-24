@@ -7,8 +7,8 @@ Author - jyoti
 <html>
 <body>
 
-<h1>JYOTI</h1>
 
+<p> my name is jyoti</p>
 <p>i put up ghumar mandi.</p>
 <p>i hail from ludhiana.</p>
 
