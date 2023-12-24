@@ -1,14 +1,14 @@
 # jyoti
-This is my first git repository.
+<h1>This is my first git repository.</h1>
 <br>
 Author - jyoti
 <!DOCTYPE html>
 <html>
 <body>
 
-<h1>My First Heading</h1>
+<h1>JYOTI</h1>
 
-<p>My first paragraph.</p>
+<p>JYOTI.</p>
 
 </body>
 </html>
